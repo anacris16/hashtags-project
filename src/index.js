@@ -4,40 +4,40 @@ let options = [
       title: "SIPConnect IA",
       hashtag: "#SIPConnect_IA",
       description:
-        "Cura información específica acerca del tema de la transformación digital en la banca.",
-      url: "https://www.linkedin.com/feed/hashtag/?keywords=sipconnect_ia",
+        "Hashtag que filtra contenidos interesantes del evento SIPConnect asociados a la IA",
+      url: "https://tinyurl.com/yc7cam3s",
     },
     {
       id: "option-2",
       title: "SIP Connect 2024",
       hashtag: "#SIPConnect2024",
       description:
-        "Cura información específica acerca del tema de la transformación digital en los medios de comunicación.",
-      url: " https://www.linkedin.com/feed/hashtag/?keywords=sipconnect2024",
+        "Hashtag que filtra contenidos asociados al evento SIPConnect 2024 de la SIP",
+      url: "https://tinyurl.com/mst7ranm",
     },
     {
       id: "option-3",
       title: "Medios Informativos",
       hashtag: "#TD_Medios",
       description:
-        "Cura información específica acerca del tema de la transformación digital en los deportes y su industria.",
-      url: "https://www.linkedin.com/feed/hashtag/?keywords=td_medios",
+        "Hashtag que filtra contenidos generales de Transformación Digital en Medios Informativos",
+      url: "https://tinyurl.com/599fmebb",
     },
     {
       id: "option-4",
       title: "Descargas",
       hashtag: "#Descargas",
       description:
-        "Cura información específica de la Inteligencia Artificial y cómo está impactando todos los ámbitos en la actualidad",
-      url: "https://nestoraltuve.com/wp-content/uploads/2023/05/roadmap-para-la-adopcion-de-la-inteligencia-artificial-en-un-medio-de-comunicacion.pdf",
+        "Hashtag que lleva a descargas asociadas a la IA en Medios Informativos",
+      url: " https://tinyurl.com/3srbvece",
     },
     {
       id: "option-5",
       title: "Medios Informativos e Inteligencia Artificial",
       hashtag: "#TD_Medios + #TD_IA",
       description:
-        "Cura información general acerca del tema de la transformación digital en todas las industrias",
-      url: " https://www.linkedin.com/search/results/content/?datePosted=%22past-month%22&keywords=%22%23TD_Medios%2B%23TD_IA%22&origin=FACETED_SEARCH&sid=biZ&sortBy=%22date_posted%22",
+        "Hashtag que filtra contenidos de Transformación Digital de Medios enfocado en la IA",
+      url: "https://tinyurl.com/57xxd8b6",
     },
   ];
   
