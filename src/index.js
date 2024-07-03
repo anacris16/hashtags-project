@@ -1,6 +1,14 @@
 let options = [
+  {
+    id: "option-1",
+    title: "Medios Informativos e Inteligencia Artificial",
+    hashtag: "#TD_Medios + #TD_IA",
+    description:
+      "Hashtag que filtra contenidos de Transformación Digital de Medios enfocado en la IA",
+    url: "https://tinyurl.com/57xxd8b6",
+  },
     {
-      id: "option-1",
+      id: "option-2",
       title: "SIPConnect IA",
       hashtag: "#SIPConnect_IA",
       description:
@@ -8,7 +16,7 @@ let options = [
       url: "https://tinyurl.com/yc7cam3s",
     },
     {
-      id: "option-2",
+      id: "option-3",
       title: "SIP Connect 2024",
       hashtag: "#SIPConnect2024",
       description:
@@ -16,7 +24,7 @@ let options = [
       url: "https://tinyurl.com/mst7ranm",
     },
     {
-      id: "option-3",
+      id: "option-4",
       title: "Medios Informativos",
       hashtag: "#TD_Medios",
       description:
@@ -24,21 +32,13 @@ let options = [
       url: "https://tinyurl.com/599fmebb",
     },
     {
-      id: "option-4",
+      id: "option-5",
       title: "Descargas",
       hashtag: "#Descargas",
       description:
         "Hashtag que lleva a descargas asociadas a la IA en Medios Informativos",
       url: " https://tinyurl.com/3srbvece",
-    },
-    {
-      id: "option-5",
-      title: "Medios Informativos e Inteligencia Artificial",
-      hashtag: "#TD_Medios + #TD_IA",
-      description:
-        "Hashtag que filtra contenidos de Transformación Digital de Medios enfocado en la IA",
-      url: "https://tinyurl.com/57xxd8b6",
-    },
+    }
   ];
   
   function generateTemplateInfo(title, hashtag, description, url) {
